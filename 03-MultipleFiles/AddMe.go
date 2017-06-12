@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func callMe(name string)  {
-  fmt.Println("Hello, ", name)
+func callMe(name string) {
+	fmt.Println("Hello, ", name)
 }
